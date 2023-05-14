@@ -5,8 +5,9 @@ Test dataset: Contains 42 records. It will be used to check the model performanc
 
 They contain 132 features that represent 132 different symptoms and 1 column named “prognosis” that represents the response variable.
 
-  K-Nearest Neighbors (KNN) 
-  Decision tree classifier
+  K-Nearest Neighbors (KNN) -100 percentage
+  
+  Decision tree classifier-97 percentage
 
    
 we're using the k-nearest neighbors (KNN) algorithm to classify the diseases based on the symptoms provided.
